@@ -2,8 +2,8 @@
 
 #on: [pull_request]
 
-jobs:
-  build:
+#jobs:
+#  build:
 #    runs-on: ubuntu-latest
 #    name: Example on how to run on PR
 #    steps:
